@@ -13,6 +13,11 @@ const ourBooks = {
       bookName: "Jeevan Samjun Ghetana",
       author: "Gaur Gopal Das",
       rating: "5/5"
+    },
+    {
+      bookName: "The 7 habits of Highly Effective People",
+      author: "Stephen Covey",
+      rating: "4/5"
     }
   ],
   Aptitude: [
@@ -25,6 +30,11 @@ const ourBooks = {
       bookName: "Quantitative Aptitude",
       author: "Dr. R.S.Aggarwal",
       rating: "4/5"
+    },
+    {
+      bookName: "A New Approach to Reasoning Verbal & Non-Verbal",
+      author: "B.S. Sijwalii and Indu Sijwali",
+      rating: "3/5"
     }
   ],
   Javascript: [
@@ -32,6 +42,16 @@ const ourBooks = {
       bookName: "Eloquent JavaScript",
       author: "Margin Baverbeke",
       rating: "5/5"
+    },
+    {
+      bookName: "You Don't know JS: Scopes and closures",
+      author: "Kyle simpson",
+      rating: "4/5"
+    },
+    {
+      bookName: "Javascript with Promises: Managing Asynchronous Code",
+      author: "Daniel Ehrenhaft",
+      rating: "4/5"
     }
   ]
 };
